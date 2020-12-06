@@ -433,8 +433,11 @@ footer #wrapper {
 	font-size: 13px;
 	color: #bbb;
 	width: 100%;
-	text-transform: uppercase;
 	padding-top: 5px;
+}
+
+.categories {
+	text-transform: lowercase;
 }
 
 h2.headline {
